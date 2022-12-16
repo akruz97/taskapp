@@ -13,6 +13,14 @@ Personal task management app
 - Filter tasks by: completed, pending, all
 - Search tasks by name
 
+## Prerequisites
+
+- Node LTS
+- Java SE Development Kit (JDK)
+- SDK Android
+
+[Setting up the development environment](https://reactnative.dev/docs/environment-setup)
+
 
 ## Run Locally
 
